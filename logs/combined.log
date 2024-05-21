@@ -1,0 +1,5 @@
+{"level":"info","message":"Parameters2 and 2 received for addition","service":"calculator-microservice"}
+{"level":"error","message":"n1 is incorrect","service":"calculator-microservice"}
+{"level":"info","message":"Parameters2 and 2 received for subtract","service":"calculator-microservice"}
+{"level":"info","message":"Parameters2 and 2 received for divide","service":"calculator-microservice"}
+{"level":"error","message":"n2 is incorrect","service":"calculator-microservice"}
